@@ -1,0 +1,20 @@
+{
+  "CONTRACT_ADDRESS": "0x271E16D14aA44eA165Fc507e42d10Df71280041B",
+  "SCAN_LINK": "https://etherscan.io/address/0x271e16d14aa44ea165fc507e42d10df71280041b",
+  "NETWORK": {
+    "NAME": "Mainnet",
+    "SYMBOL": "Eth",
+    "ID": 1
+  },
+  "NFT_NAME": "Skullbombs",
+  "SYMBOL": "Skullbomb",
+  "MAX_SUPPLY": 2000,
+  "MAX_WALLET": 100,
+  "WEI_COST": 4000000000000000,
+  "DISPLAY_COST": 0.004,
+  "GAS_LIMIT": 30000,
+  "MARKETPLACE": "Opeansea",
+  "DISCORD_LINK": "https://discord.gg/pppG8j5Z",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/skullbombs",
+  "SHOW_BACKGROUND": true
+}
