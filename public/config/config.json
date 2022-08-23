@@ -12,7 +12,7 @@
   "MAX_WALLET": 100,
   "WEI_COST": 4000000000000000,
   "DISPLAY_COST": 0.004,
-  "GAS_LIMIT": 30000,
+  "GAS_LIMIT": 285000,
   "MARKETPLACE": "Opeansea",
   "DISCORD_LINK": "https://discord.gg/pppG8j5Z",
   "MARKETPLACE_LINK": "https://opensea.io/collection/skullbombs",
